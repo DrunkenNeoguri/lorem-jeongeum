@@ -1,5 +1,5 @@
 export const HangulWords = [
-  "나라말의",
+  "한국어의",
   "음운체계가",
   "중국과",
   "달라서",
