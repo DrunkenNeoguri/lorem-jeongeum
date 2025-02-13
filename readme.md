@@ -21,3 +21,5 @@
 
 본 패키지는 [lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js)을 참고하여 제작되었습니다.  
 Copyright (c) 2012-2022 Nickolas Kenyeres nickolas@knicklabs.com
+
+본 저작물은 국립국어원에서 22년 작성하여 공공누리 제4유형으로 개방한 ‘알기 쉽게 풀어 쓴 훈민정음(작성자:어문연구과)’을 이용하였으며 해당 저작물은 국립국어원 누리집(홈페이지)(https://www.korean.go.kr)에서 [무료로 다운](https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=208&etc_seq=693&pageIndex=1)받으실 수 있습니다.
